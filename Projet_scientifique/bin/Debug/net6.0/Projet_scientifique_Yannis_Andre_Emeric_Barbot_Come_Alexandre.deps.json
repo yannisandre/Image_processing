@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projet_scientifique_Yannis_Andre_Emeric_Barbot_Come_Alexandre/1.0.0": {
+        "runtime": {
+          "Projet_scientifique_Yannis_Andre_Emeric_Barbot_Come_Alexandre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_scientifique_Yannis_Andre_Emeric_Barbot_Come_Alexandre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
